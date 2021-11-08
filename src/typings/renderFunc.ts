@@ -1,0 +1,1 @@
+export type RenderFunc<T extends object> = (obj: T) => () => JSX.Element;

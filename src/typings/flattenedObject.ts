@@ -1,0 +1,1 @@
+export type FlattenedObject = {[key in string | number]: string | (() => JSX.Element)};

@@ -1,0 +1,30 @@
+{
+  "name": "react-table-ui",
+  "version": "1.0.0",
+  "description": "A very simple table component for React with Typescript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "csstype": "^3.0.9",
+    "react": "^17.0.2",
+    "@types/react": "^17.0.33"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-c-mankin/react-table-ui.git"
+  },
+  "keywords": [
+    "react",
+    "table"
+  ],
+  "author": "Chris Mankin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-c-mankin/react-table-ui/issues"
+  },
+  "homepage": "https://github.com/chris-c-mankin/react-table-ui#readme"
+}
