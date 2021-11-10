@@ -1,9 +1,12 @@
 import * as CSS from 'csstype';
 
-const CustomizableClassNames = [
+export const CustomizableClassNames = [
     'Table',
     'Tr',
-    'Td'
+    'Td',
+    'Th',
+    'THead',
+    'TBody'
 ] as const;
 
 type CustomizableClassName = (typeof CustomizableClassNames)[number];
